@@ -1,5 +1,5 @@
 ### Hi there 👋 Would you like to sign my petition? 📋
-## Are you gonna sign this or will it be your surviving family members?
+#### Are you gonna sign this or will it be your surviving family members?
 
 <!--
 **gg0074x/gg0074x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
