@@ -1,17 +1,18 @@
-### Hi there 👋 Would you like to sign my petition? 📋
-#### Are you gonna sign this or will it be your surviving family members?
+# Hi there! I'm **Chiwa**! 💬
 
-<!--
-**gg0074x/gg0074x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a **18** years old guy that is passionate about computers and how these weird machines work! 🔌 
+- I have been learning how to code since 4 years now all by myself and it has been quite and adventure!
+- Some things i love are cats 🐈, pop and rock music 🎶, anime ⛩️, games 🎮 and memes 🤣!
+- Wishes to be an OsDev some day! ✨
 
-Here are some ideas to get you started:
+### Some technologies i find myself familiarized:
+- Rust
+- Python
+- Unreal Engine
+- Kotlin
+- Assembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+This is my contact information in case you want to say hello!
+- Discord: @chiwabox
+- E-mail: chiwuabox@gmail.com
