@@ -10,7 +10,10 @@ Wishes to be an OsDev some day! ✨
 - Python
 - Unreal Engine
 - Kotlin
+- Dart
 - Assembly
+- TS
+- Vue
 
 ## Contact
 This is my contact information in case you want to say hello!
