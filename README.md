@@ -1,11 +1,10 @@
 # Hi there! I'm **Chiwa**! 💬
 
-I'm a **19** years old guy that is passionate about computers and how these weird machines work! 🔌  
-I have been learning how to code since 2019 all by myself and it has been quite an adventure!  
-Some things i love are cats 🐈, pop and rock music 🎶, anime ⛩️, games 🎮 and memes 🤣!  
-Wishes to be an OsDev some day! ✨  
+I'm a **19** years old self-taught developer, i'm passionate about programming and everything about computers 🔌  
+I have been learning to code all by myself since 2019, i mostly use Rust 🦀  
+Currently studying a computer engineering career 📘
 
-### Some technologies i find myself familiarized:
+### Some technologies i find myself familiar with:
 - Rust
 - Python
 - Unreal Engine
