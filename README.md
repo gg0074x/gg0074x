@@ -1,6 +1,6 @@
 # Hi there! I'm **Chiwa**! 💬
 
-I'm a **19** years old self-taught developer, i'm passionate about programming and everything about computers 🔌  
+I'm a **20** years old self-taught developer, i'm passionate about programming and everything about computers 🔌  
 I have been learning to code all by myself since 2019, i mostly use Rust 🦀  
 Currently studying a computer engineering career 📘
 
